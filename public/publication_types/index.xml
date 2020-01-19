@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Ricardo Carvalho</title>
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 18:58:22 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_huab70fe7c723e86c2f798430df322c2d8_42061_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>/publication_types/3/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Ricardo Carvalho</title>
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 18:58:22 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_huab70fe7c723e86c2f798430df322c2d8_42061_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>/categories/data-analysis/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/categories/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Privacy</title>
+      <link>/categories/differential-privacy/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/categories/differential-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lottery Ticket</title>
+      <link>/categories/lottery-ticket/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/categories/lottery-ticket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Gradient Descent</title>
+      <link>/categories/stochastic-gradient-descent/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/categories/stochastic-gradient-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

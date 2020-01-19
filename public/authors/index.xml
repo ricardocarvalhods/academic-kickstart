@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ricardo Carvalho</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 18:58:22 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_huab70fe7c723e86c2f798430df322c2d8_42061_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Ke Wang</title>
+      <link>/authors/ke-wang/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/authors/ke-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lovedeep Gondara</title>
+      <link>/authors/lovedeep-gondara/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/authors/lovedeep-gondara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Silva Carvalho</title>
+      <link>/authors/ricardo-silva-carvalho/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/authors/ricardo-silva-carvalho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&#39;m Ricardo Carvalho, a Computer Science PhD student at Simon Fraser University (SFU). My current research focus on Machine Learning, mostly Generative Adversarial Networks (GANs), and Differential Privacy (DP).&lt;/p&gt;
+&lt;p&gt;Before joining SFU, I worked as a Senior Data Scientist for the Brazilian Government for over 6 years and carried out consultancy work for companies and individuals interested in connecting data science to businesses.&lt;/p&gt;
+&lt;p&gt;I also worked for almost a year as Data Science Manager at the Observatory of Public Spending (ODP), leading more than 15 data professionals on projects related to data science, fraud prediction and auditing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

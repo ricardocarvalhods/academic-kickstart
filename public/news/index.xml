@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Ricardo Carvalho</title>
+    <link>/news/</link>
+      <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huab70fe7c723e86c2f798430df322c2d8_42061_512x512_fill_lanczos_center_2.png</url>
+      <title>News</title>
+      <link>/news/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted to AISTATS 2020 on differentially private top-k selection</title>
+      <link>/news/aistats20/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/news/aistats20/</guid>
+      <description>&lt;p&gt;After an entire year of doing research on Differential Privacy, I had my first paper as a Ph.D. student accepted to an important conference: AISTATS.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;u&gt;Title&lt;/u&gt;: Differentially Private Top-k Selection for Unknown Data Domain&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Authors&lt;/u&gt;: &lt;strong&gt;Ricardo Silva Carvalho&lt;/strong&gt;, Ke Wang, Lovedeep Gondara&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Conference&lt;/u&gt;: AISTATS 2020, the 23rd International Conference on Artificial Intelligence and Statistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&#39;m now updating the latest version to address reviewers&amp;rsquo; comments and will soon release the full final paper.&lt;/p&gt;
+&lt;p&gt;We also have extensive code to reproduce all the results, in python with notebooks to simplify understanding.&lt;/p&gt;
+&lt;p&gt;Stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I have been selected as student volunteer for NeurIPS 2019</title>
+      <link>/news/neurips19/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/news/neurips19/</guid>
+      <description>&lt;p&gt;This year&#39;s NeurIPS is here at Vancouver and I&#39;m excited to share that I have been selected as volunteer.&lt;/p&gt;
+&lt;p&gt;I&#39;ll be at the Registration Desk on Dec 9th, Monday morning, from 7am to 12pm, and also will be monitoring doors on Dec 11th, Wednesday afternoon, from 1:45pm to 5pm.&lt;/p&gt;
+&lt;p&gt;Please feel free to get in touch!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

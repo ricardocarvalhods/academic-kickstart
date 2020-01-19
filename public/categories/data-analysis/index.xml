@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis | Ricardo Carvalho</title>
+    <link>/categories/data-analysis/</link>
+      <atom:link href="/categories/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 18:58:22 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_huab70fe7c723e86c2f798430df322c2d8_42061_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Analysis</title>
+      <link>/categories/data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Differentially Private Top-k Selection for Unknown Data Domain</title>
+      <link>/publication/differentially-private-top-k-selection-for-unknown-data-domain/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/publication/differentially-private-top-k-selection-for-unknown-data-domain/</guid>
+      <description>&lt;p&gt;Currently, I&#39;m updating the latest version to address reviewers’ comments and will soon release the full final paper.&lt;/p&gt;
+&lt;p&gt;We also have extensive code to reproduce all the results, in pure python and also notebooks to simplify understanding. So stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

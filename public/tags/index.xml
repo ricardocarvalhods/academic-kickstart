@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Ricardo Carvalho</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 18:58:22 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_huab70fe7c723e86c2f798430df322c2d8_42061_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>/tags/data-analysis/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Privacy</title>
+      <link>/tags/differential-privacy/</link>
+      <pubDate>Mon, 06 Jan 2020 18:58:22 -0300</pubDate>
+      <guid>/tags/differential-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lottery Ticket</title>
+      <link>/tags/lottery-ticket/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/tags/lottery-ticket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Gradient Descent</title>
+      <link>/tags/stochastic-gradient-descent/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/tags/stochastic-gradient-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Lasso</title>
+      <link>/tags/adaptive-lasso/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/adaptive-lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lasso</title>
+      <link>/tags/lasso/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridge</title>
+      <link>/tags/ridge/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/ridge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

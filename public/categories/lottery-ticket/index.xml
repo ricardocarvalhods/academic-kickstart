@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lottery Ticket | Ricardo Carvalho</title>
+    <link>/categories/lottery-ticket/</link>
+      <atom:link href="/categories/lottery-ticket/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lottery Ticket</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2019 19:29:28 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_huab70fe7c723e86c2f798430df322c2d8_42061_512x512_fill_lanczos_center_2.png</url>
+      <title>Lottery Ticket</title>
+      <link>/categories/lottery-ticket/</link>
+    </image>
+    
+    <item>
+      <title>Winning Privately: The Differentially Private Lottery Ticket Mechanism</title>
+      <link>/publication/winning-privately-the-differentially-private-lottery-ticket-mechanism/</link>
+      <pubDate>Sat, 14 Dec 2019 19:29:28 -0300</pubDate>
+      <guid>/publication/winning-privately-the-differentially-private-lottery-ticket-mechanism/</guid>
+      <description>&lt;p&gt;This is a work in progress presented at the Workshop on Machine Learning with Guarantees, part of NeurIPS 2019, as a &lt;strong&gt;POSTER&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
