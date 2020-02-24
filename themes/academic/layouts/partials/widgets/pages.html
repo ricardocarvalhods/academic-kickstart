@@ -66,10 +66,8 @@
 {{ end }}
 
 <div class="row">
-  <div class="col-12 col-lg-4 section-heading">
 
-  </div>
-  <div class="col-12 col-lg-8">
+  <div class="col-12 col-lg-12">
     <hr/>
     <h3>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h3>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
